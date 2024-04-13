@@ -81,7 +81,7 @@ export function References() {
               <p key={link.id} className="mt-2 text-sm leading-6 text-gray-600">
                 {link.description}
               </p>
-            )
+            ),
           )}
         </div>
       </div>

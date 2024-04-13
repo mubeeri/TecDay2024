@@ -1,7 +1,7 @@
 export function Hero() {
   const start = new URL(
     "/src/img/start.jpg?as=webp&width=640",
-    import.meta.url
+    import.meta.url,
   );
 
   return (

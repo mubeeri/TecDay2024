@@ -11,7 +11,7 @@ const posts = [
     href: "https://www.berufsberatung.ch/dyn/show/4069",
     imageUrl: new URL(
       "/src/img/berufsberatung.jpg?as=webp&width=640",
-      import.meta.url
+      import.meta.url,
     ),
   },
 ];
