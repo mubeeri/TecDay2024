@@ -27,6 +27,13 @@ npm run start
 npm run build
 ```
 
+## Prettier
+
+```sh
+npx prettier --check src/
+npx prettier --write src/
+```
+
 ## Author
 
 👤 **Jiri Leva**
