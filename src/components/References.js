@@ -54,12 +54,17 @@ const links = [
     href: "https://www.svin.ch/projekt/ausstellung-ich-bin-ingenieurin",
     description: "Bild «Ich bin Ingenieurin» - svin.ch",
   },
-
   {
     id: 10,
     title: "Wir sind Ingenieurinnen",
     href: "https://www.svin.ch",
     description: "Bild «Wir sind Ingenieurinnen» - svin.ch",
+  },
+  {
+    id: 11,
+    title: "Kontakt Tabea Arnold",
+    href: "https://www.generationentandem.ch",
+    description: "Bild «Tabea Arnold» - generationentandem.ch",
   },
 ];
 export function References() {
